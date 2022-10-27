@@ -1,0 +1,5 @@
+dist
+@types
+migrate-mongo-config.js
+src/interface/general/index.ts
+*ormconfig.js
